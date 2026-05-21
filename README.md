@@ -36,6 +36,21 @@ Parámetros en el dominio del tiempo:
 
 **4).** Diagrama de Poincaré como herramienta de análisis de la serie R-R.
 - R/:
+
+El diagrama de Poincaré es una herramienta no lineal que grafica cada intervalo R-R[n] contra el siguiente R-R[n+1]. La nube de puntos resultante forma una elipse cuyos ejes revelan el balance autonómico:
+
+   -SD1 (eje transversal, T): dispersión perpendicular a la línea de identidad. Refleja la variabilidad latido a latido → actividad vagal (parasimpática).
+   -SD2 (eje longitudinal, L): dispersión a lo largo de la línea de identidad. Refleja la variabilidad a largo plazo → actividad simpática.
+
+Según Toichi et al. (1997), los índices autonómicos se definen como:
+T = 4 · SD1          (eje transversal)
+L = 4 · SD2          (eje longitudinal)
+
+CVI = log₁₀(L × T)   → Cardiac Vagal Index    (↑ = mayor tono parasimpático)
+
+CSI = L / T           → Cardiac Sympathetic Index (↑ = mayor tono simpático)
+
+Visualmente: una elipse más ancha y grande indica mayor tono vagal (reposo); una elipse más larga y estrecha indica mayor tono simpático (estrés/lectura).
  
 
 **5).** Variabilidad de la frecuencia cardíaca (HRV) y balance autonómico.
