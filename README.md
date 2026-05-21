@@ -17,8 +17,8 @@ El balance entre ambas ramas determina el estado autonómico del sujeto en cada 
 - R/:
  
 
-| Columna 1 | Columna 2 | Columna 3 |
-| :--- | :---: | ---: |
+| CONDICION | RAMA DOMINANTE | FRCUENCI CARDIACA | INTERVALO R-R | VARIABILIDAD |
+| :--- | :---: | :---: | :---: | ---: |
 | Fila 1, Dato 1 | Fila 1, Dato 2 | Fila 1, Dato 3 |
 | Fila 2, Dato 1 | Fila 2, Dato 2 | Fila 2, Dato 3 |
 
