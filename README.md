@@ -70,6 +70,17 @@ Además, al realizar el análisis de la señal obtenida, se evidenció que la va
 
 ## PARTE B
 ### c. PRE-PROCESAMINETO DE LA SEÑAL
+
+<img width="2385" height="1036" alt="B1_ecg_completa_20260521_162836" src="https://github.com/user-attachments/assets/7cd7285e-4e97-4194-93a3-dfeb8faa251b" />
+<img width="2085" height="742" alt="B1b_zoom_filtro_20260521_162836" src="https://github.com/user-attachments/assets/f4eff06c-b366-4d70-a175-816d597ac6c7" />
+<img width="2372" height="1036" alt="B2_picos_R_20260521_162836" src="https://github.com/user-attachments/assets/3913f204-c857-42d0-8ca2-fd2b731da7d4" />
+
+
 ### d. ANALISIS DE LA HRV EN EL DOMINIO DEL TIEMPO
 ## PARTE C
 ### e. CONSTRUCCION DEL DIAGRAMA DE PIONCARÉ
+
+<img width="2091" height="889" alt="C1_poincare_20260521_163922" src="https://github.com/user-attachments/assets/d6664b97-6bad-453a-91ee-e5f0b1a940d3" />
+<img width="2085" height="889" alt="C0_zoom_20s_20260521_163922" src="https://github.com/user-attachments/assets/c013cbc7-5800-4144-a5a6-e8f65fdb077c" />
+
+
