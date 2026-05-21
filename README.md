@@ -60,7 +60,7 @@ Visualmente: una elipse más ancha y grande indica mayor tono vagal (reposo); un
 
 
 ### b. ADQUISICION DE LA SEÑAL ECG
-<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/c0cbc64e-214b-48eb-912c-cf329cd1996c" />
+<img width="467" height="336" alt="image" src="https://github.com/user-attachments/assets/c0cbc64e-214b-48eb-912c-cf329cd1996c" />
 
 Se utilizó esta analogía y la correcta ubicación de los electrodos para obtener la señal de ECG mediante el dispositivo BITalino. A partir de esta configuración, se realizó la adquisición de aproximadamente cuatro minutos de señal cardíaca continua, permitiendo registrar de manera adecuada la actividad eléctrica del corazón. Durante los primeros dos minutos, la persona se mantuvo en estado de reposo y silencio, con el fin de obtener una señal estable y con la menor cantidad posible de interferencias. Posteriormente, en los dos minutos restantes, la medición se realizó en un estado de excitación, hablando en voz alta, para observar los posibles cambios y variaciones presentes en la señal de ECG bajo diferentes condiciones. Finalmente, la señal obtenida fue utilizada para llevar a cabo el análisis correspondiente del comportamiento cardíaco durante ambas situaciones.
 
