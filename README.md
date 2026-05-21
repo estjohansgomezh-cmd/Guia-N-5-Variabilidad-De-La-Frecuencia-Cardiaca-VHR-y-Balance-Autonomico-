@@ -3,10 +3,10 @@
 ### a. FUNDAMENTO TEÓRICO
 - Actividad simpática y parasimpática del sistema nervioso autónomo.
     - R/:El SNA regula funciones involuntarias del organismo a través de dos ramas antagónicas:
-"Rama simpática:" se activa ante situaciones de estrés, esfuerzo o alerta. Libera noradrenalina, lo que aumenta la frecuencia cardíaca (efecto cronotrópico positivo) y reduce la variabilidad R-R.
-"Rama parasimpática (vagal):" predomina en reposo. Libera acetilcolina a través del nervio vago, disminuyendo la frecuencia cardíaca y aumentando la variabilidad R-R.
+       - *Rama simpática:* se activa ante situaciones de estrés, esfuerzo o alerta. Libera noradrenalina, lo que aumenta la frecuencia cardíaca (efecto cronotrópico positivo) y reduce la variabilidad R-R.
+       - *Rama parasimpática (vagal):* predomina en reposo. Libera acetilcolina a través del nervio vago, disminuyendo la frecuencia cardíaca y aumentando la variabilidad R-R.
+El balance entre ambas ramas determina el estado autonómico del sujeto en cada momento.
 
-El balance entre ambas ramas determina el estado autonómico del sujeto en cada momento. 
 - Efecto de la actividad simpática y parasimpática en la frecuencia cardíaca.
     - R/: 
 - Variabilidad de la frecuencia cardíaca (HRV) obtenida a partir de la señal electrocardiográfica (ECG).
