@@ -2,7 +2,9 @@
 ## PARTE A
 ### a. FUNDAMENTO TEÓRICO
 - Actividad simpática y parasimpática del sistema nervioso autónomo.
-    - R/:El SNA regula funciones involuntarias del organismo a través de dos ramas antagónicas:
+    - R/:
+ 
+  El SNA regula funciones involuntarias del organismo a través de dos ramas antagónicas:
        - **Rama simpática:** se activa ante situaciones de estrés, esfuerzo o alerta. Libera noradrenalina, lo que aumenta la frecuencia cardíaca (efecto cronotrópico positivo) y reduce la variabilidad R-R.
        - **Rama parasimpática (vagal):** predomina en reposo. Libera acetilcolina a través del nervio vago, disminuyendo la frecuencia cardíaca y aumentando la variabilidad R-R.}
          
