@@ -29,9 +29,9 @@ La verbalización (al momento de hablar) activa el sistema simpático porque imp
 La HRV es la fluctuación en la duración de los intervalos entre latidos consecutivos (intervalos R-R), medidos desde la señal ECG. No es ruido: es información fisiológica sobre el balance autonómico.
 
 Parámetros en el dominio del tiempo:
-- Media R-R: valor promedio de los intervalos. Inversamente proporcional a la FC.
+   - Media R-R: valor promedio de los intervalos. Inversamente proporcional a la FC.
 
-- SDNN: desviación estándar de los intervalos R-R. Refleja la variabilidad total; valores altos indican buen tono vagal. 
+   - SDNN: desviación estándar de los intervalos R-R. Refleja la variabilidad total; valores altos indican buen tono vagal. 
 
 **4).** Diagrama de Poincaré como herramienta de análisis de la serie R-R.
 - R/:
