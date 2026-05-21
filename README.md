@@ -17,8 +17,10 @@ El balance entre ambas ramas determina el estado autonómico del sujeto en cada 
 - R/:
  
 
-CondiciónRama dominanteFCIntervalo R-RVariabilidadReposo / silencioParasimpática↓↑ largo↑ altaEstrés / lectura en voz altaSimpática↑↓ corto↓ baja
-La verbalización activa el sistema simpático porque implica esfuerzo cognitivo, control motor del habla y mayor demanda de oxígeno.
+| Columna 1 | Columna 2 | Columna 3 |
+| :--- | :---: | ---: |
+| Fila 1, Dato 1 | Fila 1, Dato 2 | Fila 1, Dato 3 |
+| Fila 2, Dato 1 | Fila 2, Dato 2 | Fila 2, Dato 3 |
 
 
 3). Variabilidad de la frecuencia cardíaca (HRV) obtenida a partir de la señal electrocardiográfica (ECG).
