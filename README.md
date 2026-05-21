@@ -7,7 +7,7 @@
  
   El SNA regula funciones involuntarias del organismo a través de dos ramas antagónicas:
   
-  - **Rama simpática:** se activa ante situaciones de estrés, esfuerzo o alerta. Libera noradrenalina, lo que aumenta la frecuencia cardíaca (efecto cronotrópico positivo) y reduce la variabilidad R-R.
+   - **Rama simpática:** se activa ante situaciones de estrés, esfuerzo o alerta. Libera noradrenalina, lo que aumenta la frecuencia cardíaca (efecto cronotrópico positivo) y reduce la variabilidad R-R.
   
    - **Rama parasimpática (vagal):** predomina en reposo. Libera acetilcolina a través del nervio vago, disminuyendo la frecuencia cardíaca y aumentando la variabilidad R-R.}
          
@@ -16,7 +16,7 @@ El balance entre ambas ramas determina el estado autonómico del sujeto en cada 
 **2).** Efecto de la actividad simpática y parasimpática en la frecuencia cardíaca.
 - R/:
 
-| CONDICION | RAMA DOMINANTE | FRCUENCI CARDIACA | INTERVALO R-R | VARIABILIDAD |
+| CONDICION | RAMA DOMINANTE | FRCUENCIA CARDIACA | INTERVALO R-R | VARIABILIDAD |
 | :---: | :---: | :---: | :---: | :---: |
 | En resposo, en este caso sin hablar | parasimpatico | disminuye | es largo | es alta la variabilidad |
 | en estres, en este caso cuando se habla en voz alta | simpatico | aumenta | es corto | es baja la variabilidad |
@@ -29,6 +29,7 @@ La verbalización (al momento de hablar) activa el sistema simpático porque imp
 La HRV es la fluctuación en la duración de los intervalos entre latidos consecutivos (intervalos R-R), medidos desde la señal ECG. No es ruido: es información fisiológica sobre el balance autonómico.
 
 Parámetros en el dominio del tiempo:
+
    - Media R-R: valor promedio de los intervalos. Inversamente proporcional a la FC.
 
    - SDNN: desviación estándar de los intervalos R-R. Refleja la variabilidad total; valores altos indican buen tono vagal. 
