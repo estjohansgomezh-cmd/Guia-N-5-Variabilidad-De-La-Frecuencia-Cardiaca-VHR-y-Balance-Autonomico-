@@ -64,6 +64,10 @@ Visualmente: una elipse más ancha y grande indica mayor tono vagal (reposo); un
 
 Se utilizó esta analogía y la correcta ubicación de los electrodos para obtener la señal de ECG mediante el dispositivo BITalino. A partir de esta configuración, se realizó la adquisición de aproximadamente cuatro minutos de señal cardíaca continua, permitiendo registrar de manera adecuada la actividad eléctrica del corazón. Durante los primeros dos minutos, la persona se mantuvo en estado de reposo y silencio, con el fin de obtener una señal estable y con la menor cantidad posible de interferencias. Posteriormente, en los dos minutos restantes, la medición se realizó en un estado de excitación, hablando en voz alta, para observar los posibles cambios y variaciones presentes en la señal de ECG bajo diferentes condiciones. Finalmente, la señal obtenida fue utilizada para llevar a cabo el análisis correspondiente del comportamiento cardíaco durante ambas situaciones.
 
+<img width="276" height="182" alt="image" src="https://github.com/user-attachments/assets/9ec62e97-c4d3-44d4-a009-cb2f5670ba3f" />
+
+Además, al realizar el análisis de la señal obtenida, se evidenció que la variación observada presentaba un comportamiento similar al de la derivación V3 del ECG, ya que la forma y características de la señal mostraban una mayor semejanza con este tipo de derivación precordial. Esta variación permitió visualizar de manera más clara algunos cambios en la actividad eléctrica cardíaca durante las diferentes condiciones de medición.
+
 ## PARTE B
 ### c. PRE-PROCESAMINETO DE LA SEÑAL
 ### d. ANALISIS DE LA HRV EN EL DOMINIO DEL TIEMPO
