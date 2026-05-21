@@ -3,7 +3,7 @@
 ### a. FUNDAMENTO TEÓRICO
 
 1). Actividad simpática y parasimpática del sistema nervioso autónomo.
-    - R/:
+- R/:
  
   El SNA regula funciones involuntarias del organismo a través de dos ramas antagónicas:
   
