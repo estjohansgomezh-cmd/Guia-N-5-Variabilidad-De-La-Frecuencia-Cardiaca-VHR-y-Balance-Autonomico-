@@ -15,7 +15,6 @@ El balance entre ambas ramas determina el estado autonómico del sujeto en cada 
 
 **2).** Efecto de la actividad simpática y parasimpática en la frecuencia cardíaca.
 - R/:
- 
 
 | CONDICION | RAMA DOMINANTE | FRCUENCI CARDIACA | INTERVALO R-R | VARIABILIDAD |
 | :---: | :---: | :---: | :---: | :---: |
@@ -26,8 +25,13 @@ La verbalización (al momento de hablar) activa el sistema simpático porque imp
 
 **3).** Variabilidad de la frecuencia cardíaca (HRV) obtenida a partir de la señal electrocardiográfica (ECG).
 - R/:
- 
 
+La HRV es la fluctuación en la duración de los intervalos entre latidos consecutivos (intervalos R-R), medidos desde la señal ECG. No es ruido: es información fisiológica sobre el balance autonómico.
+
+Parámetros en el dominio del tiempo:
+- Media R-R: valor promedio de los intervalos. Inversamente proporcional a la FC.
+
+- SDNN: desviación estándar de los intervalos R-R. Refleja la variabilidad total; valores altos indican buen tono vagal. 
 
 **4).** Diagrama de Poincaré como herramienta de análisis de la serie R-R.
 - R/:
