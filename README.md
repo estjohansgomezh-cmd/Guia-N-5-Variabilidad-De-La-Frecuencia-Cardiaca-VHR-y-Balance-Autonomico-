@@ -30,9 +30,9 @@ La HRV es la fluctuación en la duración de los intervalos entre latidos consec
 
 Parámetros en el dominio del tiempo:
 
-   - Media R-R: valor promedio de los intervalos. Inversamente proporcional a la FC.
+   - **Media R-R:** valor promedio de los intervalos. Inversamente proporcional a la FC.
 
-   - SDNN: desviación estándar de los intervalos R-R. Refleja la variabilidad total; valores altos indican buen tono vagal. 
+   - **SDNN:** desviación estándar de los intervalos R-R. Refleja la variabilidad total; valores altos indican buen tono vagal. 
 
 **4).** Diagrama de Poincaré como herramienta de análisis de la serie R-R.
 - R/:
