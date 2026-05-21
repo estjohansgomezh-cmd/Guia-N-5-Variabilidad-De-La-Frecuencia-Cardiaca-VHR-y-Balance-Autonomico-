@@ -19,8 +19,8 @@ El balance entre ambas ramas determina el estado autonómico del sujeto en cada 
 
 | CONDICION | RAMA DOMINANTE | FRCUENCI CARDIACA | INTERVALO R-R | VARIABILIDAD |
 | :--- | :---: | :---: | :---: | ---: |
-| Fila 1, Dato 1 | Fila 1, Dato 2 | Fila 1, Dato 3 |
-| Fila 2, Dato 1 | Fila 2, Dato 2 | Fila 2, Dato 3 |
+| En resposo, en este caso sin hablar | parasimpatico | disminuye | es largo | es alta la variabilidad |
+| en estres, en este caso cuando se habla en voz alta | simpatico | aumenta | es corto | es baja la variabilidad |
 
 
 3). Variabilidad de la frecuencia cardíaca (HRV) obtenida a partir de la señal electrocardiográfica (ECG).
