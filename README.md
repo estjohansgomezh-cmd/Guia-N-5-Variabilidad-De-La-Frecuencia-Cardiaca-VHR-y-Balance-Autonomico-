@@ -1,4 +1,5 @@
-# Guia-N-5-Variabilidad-De-La-Frecuencia-Cardiaca-VHR-y-Balance-Autonomico-
+#  Práctica de Laboratorio N° 5: Variabilidad de la frecuencia cardiaca VHR y Balance Autonomico
+Universidad Militar Nueva Granada — Ingeniería Biomédica — Procesamiento Digital de Señales
 ## PARTE A
 ### a. FUNDAMENTO TEÓRICO
 
