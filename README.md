@@ -2,7 +2,7 @@
 ## PARTE A
 ### a. FUNDAMENTO TEÓRICO
 - Actividad simpática y parasimpática del sistema nervioso autónomo.
-  R/: 
+-   R/: 
 - Efecto de la actividad simpática y parasimpática en la frecuencia cardíaca.
   R/: 
 - Variabilidad de la frecuencia cardíaca (HRV) obtenida a partir de la señal electrocardiográfica (ECG).
