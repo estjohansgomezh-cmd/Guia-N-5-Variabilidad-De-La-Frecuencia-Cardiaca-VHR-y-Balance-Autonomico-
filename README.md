@@ -1,3 +1,4 @@
+
 #  Práctica de Laboratorio N° 5: Variabilidad de la frecuencia cardiaca VHR y Balance Autonomico
 Universidad Militar Nueva Granada — Ingeniería Biomédica — Procesamiento Digital de Señales
 ---
@@ -73,8 +74,29 @@ Visualmente: una elipse más ancha y grande indica mayor tono vagal (reposo); un
 
 **5).** Variabilidad de la frecuencia cardíaca (HRV) y balance autonómico.
 - R/:
+1. Sistema Nervioso Autónomo (SNA)
+El SNA es la división del sistema nervioso que regula funciones involuntarias del organismo (frecuencia cardíaca, presión arterial, digestión, respiración). Se divide en dos ramas antagónicas:
 
-<img width="849" height="1200" alt="image" src="https://github.com/user-attachments/assets/369cd473-f333-4eb0-8a3d-d3d94ddfba4f" />
+**Rama simpática:**
+
+- Se activa ante situaciones de estrés, esfuerzo físico o alerta
+- Libera noradrenalina en el nodo sinusal
+- Efecto: aumenta la FC, acorta los intervalos R-R, reduce la HRV
+- Ejemplo: hablar en público, ejercicio, susto
+
+**Rama parasimpática (vagal):**
+
+- Predomina en reposo y relajación
+- Actúa a través del nervio vago, liberando acetilcolina
+- Efecto: disminuye la FC, alarga los intervalos R-R, aumenta la HRV
+- Ejemplo: reposo, sueño, meditación
+
+El balance entre ambas ramas en cada momento determina el estado autonómico del sujeto.
+
+### DIAGRAMA DE FLUJO
+
+<img width="300" height="550" alt="diagrama_flujo_hrv" src="https://github.com/user-attachments/assets/44155369-c0dd-41e7-a8e3-9c9d4169e38f" />
+
 
 ### b. ADQUISICION DE LA SEÑAL ECG
 <img width="467" height="336" alt="image" src="https://github.com/user-attachments/assets/c0cbc64e-214b-48eb-912c-cf329cd1996c" />
