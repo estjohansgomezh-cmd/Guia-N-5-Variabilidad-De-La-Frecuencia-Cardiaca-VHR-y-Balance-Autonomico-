@@ -1,5 +1,10 @@
 #  Práctica de Laboratorio N° 5: Variabilidad de la frecuencia cardiaca VHR y Balance Autonomico
 Universidad Militar Nueva Granada — Ingeniería Biomédica — Procesamiento Digital de Señales
+---
+## Descripción
+
+## Metodología
+
 ## PARTE A
 ### a. FUNDAMENTO TEÓRICO
 
