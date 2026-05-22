@@ -95,7 +95,7 @@ El balance entre ambas ramas en cada momento determina el estado autonómico del
 
 ### DIAGRAMA DE FLUJO
 
-<img width="300" height="550" alt="diagrama_flujo_hrv" src="https://github.com/user-attachments/assets/44155369-c0dd-41e7-a8e3-9c9d4169e38f" />
+<img width="800" height="1200" alt="diagrama_flujo_hrv" src="https://github.com/user-attachments/assets/44155369-c0dd-41e7-a8e3-9c9d4169e38f" />
 
 
 ### b. ADQUISICION DE LA SEÑAL ECG
